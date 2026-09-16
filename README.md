@@ -210,4 +210,4 @@ InnoExtractor is available as a **full free version** with all features and upda
 Unlock the full potential of your installation files today! Download InnoExtractor now and take control of your Inno Setup installers.
 
 ---
-**Last updated:** 2026-09-15 22:02:15 UTC
+**Last updated:** 2026-09-16 01:13:55 UTC
